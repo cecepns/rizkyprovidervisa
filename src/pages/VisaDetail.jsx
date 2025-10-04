@@ -162,7 +162,7 @@ const VisaDetail = () => {
           </div>
 
           {showDetails && visaDetails.length > 0 && (
-            <div className="bg-white rounded-lg shadow-lg p-8" data-aos="fade-up">
+            <div className="bg-white rounded-lg shadow-lg p-8">
               <h2 className="text-3xl font-bold mb-6 text-blue-600">Detail Visa</h2>
 
               <div className="space-y-6">
